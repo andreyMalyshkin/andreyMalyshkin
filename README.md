@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 -----------------
 
-I've been developing for a year now. I started my journey with HTML and CSS, did not find myself in backend development, and now I am a backend developer on Node JS
+I've been developing for a year now. I started my journey with HTML and CSS, but found myself in backend development and am now a backend developer on Node JS.
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [andrishkin@gmail.com](mailto:andrishkin@gmail.com) or [tg: Andrey Malyshkin](https://t.me/ibuup)
-* 🚀  I'm currently working on [Green-Api](http://https://green-api.com/)
+* 🚀  I'm currently working in [Green-Api](http://https://green-api.com/)
 * 🧠  I'm learning Jest and Nest Js
 
 ### Skills
