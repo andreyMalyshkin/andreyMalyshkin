@@ -8,7 +8,7 @@ I've been developing for a year now. I started my journey with HTML and CSS, but
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [andrishkin@gmail.com](mailto:andrishkin@gmail.com) or [tg: Andrey Malyshkin](https://t.me/ibuup)
-* 🚀  I'm currently working in [Green-Api](http://https://green-api.com/)
+* 🚀  I'm currently working in [Green-Api](https://green-api.com/)
 * 🧠  I'm learning Jest and Nest Js
 
 ### Skills
